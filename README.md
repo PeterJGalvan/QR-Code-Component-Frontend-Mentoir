@@ -22,7 +22,7 @@ This is my 1st solution I have done on Frontend Mentor. It was a fun experience 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://peterjgalvan.github.io/QR-Code-Component-Static-Frontend-Mentor/)
 
 ## My process
 
