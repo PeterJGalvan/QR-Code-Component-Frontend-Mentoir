@@ -22,23 +22,23 @@ body {
   border-radius: 15px;
 }
 
-img {
-  margin-top: 15px;
+.text-container {
   width: 90%;
+  margin: 20px auto;
 }
 
-h3 {
+img {
+  width: 100%;
+}
+
+h1 {
+  font-size: 20px;
   color: hsl(218, 44%, 22%);
-  margin: auto;
-  margin-top: 10px;
-  width: 90%;
+  margin-block: 10px 0;
 }
 
 p {
   font-size: 15px;
   color: hsl(220, 15%, 55%);
-  margin: auto;
-  margin-top: 10px;
-  margin-bottom: 20px;
-  width: 90%;
+  margin-block: 10px 0;
 }

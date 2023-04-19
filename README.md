@@ -31,6 +31,7 @@ This is my 1st solution I have done on Frontend Mentor. It was a fun experience 
 - Flexbox
 - Mobile-first workflow
 - Google Fonts
+- Semantic HTML5 markup
 
 ### What I learned
 
