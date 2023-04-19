@@ -21,8 +21,8 @@ This is my 1st solution I have done on Frontend Mentor. It was a fun experience 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-TzTfL2KMoh)
-- Live Site URL: [Add live site URL here](https://peterjgalvan.github.io/QR-Code-Component-Static-Frontend-Mentor/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-TzTfL2KMoh)
+- Live Site URL: [live site URL here](https://peterjgalvan.github.io/QR-Code-Component-Static-Frontend-Mentor/)
 
 ## My process
 
