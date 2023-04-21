@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This is my 1st solution I have done on Frontend Mentor. It was a fun experience and a great way to practice coding based on a design mock up. This os solution for making a QR code that links users to the website of [Frontend Mentor](https://www.frontendmentor.io)
+This is my 1st solution I have done on Frontend Mentor. It was a fun experience and a great way to practice coding based on a design mock up. This is my solution for making a QR code that links users to the website of [Frontend Mentor](https://www.frontendmentor.io)
 
 ### Screenshot
 
